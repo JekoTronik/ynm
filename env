@@ -1,1 +1,1 @@
-guix environment --ad-hoc artanis
+guix environment --ad-hoc guile@2.2.7 artanis
